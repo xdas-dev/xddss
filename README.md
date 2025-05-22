@@ -15,9 +15,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![DOI](https://zenodo.org/badge/560867006.svg)](https://zenodo.org/badge/latestdoi/560867006)
 
-# Xddss: a Python Framework for Distributed Acoustic Sensing
+# Xddss: a Python Framework for Distributed Dynamic Strain Sensing
 
-*Xddss* is an python library for managing, processing and visualizing **Distributed Acoustic Sensing (DAS)** data. It reads any DAS format into self-described python abstractions that encapsulates both the data and the metadata (coordinates and attributes). Xddss reuses concepts of labeled N-dimensional arrays developped by the [Xarray](https://xarray.dev) library. It takes inspiration from [Dask](https://www.dask.org/) in term of lazy computing.
+*Xddss* is an python library for managing, processing and visualizing **Distributed Dynamic Strain Sensing (DAS)** data. It reads any DAS format into self-described python abstractions that encapsulates both the data and the metadata (coordinates and attributes). Xddss reuses concepts of labeled N-dimensional arrays developped by the [Xarray](https://xarray.dev) library. It takes inspiration from [Dask](https://www.dask.org/) in term of lazy computing.
 
 ## Key Features
 
