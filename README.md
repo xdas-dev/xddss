@@ -34,6 +34,14 @@ Xddss can be fetched from [PyPI](https://pypi.org/project/xdas):
 
     pip install git+https://github.com/xdas-dev/xddss.git
 
+## Usage
+
+```python
+import xddss
+
+# do things
+```
+
 ## Documentation
 
 The documentation is available at: [https://xdas.readthedocs.io](https://xdas.readthedocs.io).
@@ -54,4 +62,4 @@ You can find information about contributing to Xddss in our [Contributing Guide]
 
 ## Citing
 
-If you use Xddss for your DAS data processing, please consider [citing the project](https://xdas.readthedocs.io/en/latest/cite.html).
+If you use Xddss for your DDSS data processing, please consider [citing the project](https://xdas.readthedocs.io/en/latest/cite.html).
