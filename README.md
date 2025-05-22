@@ -30,7 +30,7 @@ Xddss can also be used in other context than DDSS, for example in the context of
 
 ## Installation
 
-Xddss can be fetched from [PyPI](https://pypi.org/project/xdas):
+Xddss can be fetched from github:
 
     pip install git+https://github.com/xdas-dev/xddss.git
 
