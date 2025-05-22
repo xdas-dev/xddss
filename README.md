@@ -17,16 +17,16 @@
 
 # Xddss: a Python Framework for Distributed Dynamic Strain Sensing
 
-*Xddss* is an python library for managing, processing and visualizing **Distributed Dynamic Strain Sensing (DAS)** data. It reads any DAS format into self-described python abstractions that encapsulates both the data and the metadata (coordinates and attributes). Xddss reuses concepts of labeled N-dimensional arrays developped by the [Xarray](https://xarray.dev) library. It takes inspiration from [Dask](https://www.dask.org/) in term of lazy computing.
+*Xddss* is an python library for managing, processing and visualizing **Distributed Dynamic Strain Sensing (DDSS)** data. It reads any DDSS format into self-described python abstractions that encapsulates both the data and the metadata (coordinates and attributes). Xddss reuses concepts of labeled N-dimensional arrays developped by the [Xarray](https://xarray.dev) library. It takes inspiration from [Dask](https://www.dask.org/) in term of lazy computing.
 
 ## Key Features
 
-- Seamless manipulation of large multi-file datasets in their native DAS-specific format.
+- Seamless manipulation of large multi-file datasets in their native DDSS-specific format.
 - Signal Processing: Multi-threaded implementations of common routines.
 - Extensibility: build your pipeline with a mix of Xddss, NumPy/SciPy, and/or your own custom routines. 
 - Larger-than-memory processing: apply your piplines with optimized I/O latencies.
 
-Xddss can also be used in other context than DAS, for example in the context of other dense and heavy N-dimenional arrays such as large-N seismic arrays.
+Xddss can also be used in other context than DDSS, for example in the context of other dense and heavy N-dimenional arrays such as large-N seismic arrays.
 
 ## Installation
 
