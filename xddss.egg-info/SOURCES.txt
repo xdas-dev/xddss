@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+xddss/__init__.py
+xddss.egg-info/PKG-INFO
+xddss.egg-info/SOURCES.txt
+xddss.egg-info/dependency_links.txt
+xddss.egg-info/requires.txt
+xddss.egg-info/top_level.txt

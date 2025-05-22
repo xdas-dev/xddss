@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xddss"
+version = "1.0.0"
+requires-python = ">= 3.10"
+authors = [
+    { name = "Alister Trabattoni", email = "alister.trabattoni@gmail.com" },
+]
+dependencies = ["xdas"]

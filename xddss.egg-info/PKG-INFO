@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: xddss
+Version: 1.0.0
+Author-email: Alister Trabattoni <alister.trabattoni@gmail.com>
+Requires-Python: >=3.10
+License-File: LICENSE.md
+Requires-Dist: xdas
+Dynamic: license-file
